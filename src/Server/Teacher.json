@@ -1,0 +1,28 @@
+{
+  "Teacher": [
+    {
+      "name": "VARUN B M",
+      "class": "7th standard",
+      "subject":"maths",
+      "contact_no":"9087654321",
+      "Address":"Belagavi",
+      "id": 3
+    },
+    {
+      "name": "Vishnu",
+      "class": "6th standard",
+      "subject":"English",
+      "contact_no":"8087654321",
+      "Address":"Darwad",
+      "id": 4
+    },
+    {
+      "name": "Jackets",
+      "class": "6th standard",
+      "subject":"Science",
+      "contact_no":"7087654321",
+      "Address":"shivmoga",
+      "id": 5
+    }
+  ]
+}

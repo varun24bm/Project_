@@ -1,0 +1,46 @@
+{
+  "Students": [
+    {
+      "id": 2,
+      "name": "Rajesh",
+      "class": "7th standard",
+      "father_name": "Manju",
+      "mother_name": "shashi",
+      "contact_no": "9452674845",
+      "address": "Tumkur",
+      "kannada": 34,
+      "english": 81,
+      "maths": 66,
+      "science": 71,
+      "social": 48
+    },
+    {
+      "name": "rahul",
+      "class": "6th standard",
+      "father_name": "shiva",
+      "mother_name": "parvathi",
+      "contact_no": "7452674845",
+      "address": "hassan",
+      "kannada": 34,
+      "english": 81,
+      "maths": 76,
+      "science": 91,
+      "social": 86,
+      "id": 3
+    },
+    {
+      "name": "varun",
+      "class": "6th standard",
+      "father_name": "sanju",
+      "mother_name": "krushi",
+      "contact_no": "8852674845",
+      "address": "Bengaluru",
+      "kannada": 98,
+      "english": 81,
+      "maths": 66,
+      "science": 71,
+      "social": 48,
+      "id": 4
+    }
+  ]
+}
